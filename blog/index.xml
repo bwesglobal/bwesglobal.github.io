@@ -1,2 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Blue Water</title><link>/blog/</link><description>Recent content in Blog on Blue Water</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 16:28:15 +0530</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>BOSS 2021 Rewind</title><link>/blog/2021rewind/</link><pubDate>Wed, 05 Jan 2022 16:28:15 +0530</pubDate><guid>/blog/2021rewind/</guid><description> Enhanced the user experience with single page application. This year,</description></item><item><title>Because BOSS needs an assistant</title><link>/blog/qaira/</link><pubDate>Sat, 09 Nov 2019 16:28:15 +0530</pubDate><guid>/blog/qaira/</guid><description>Blue Water is excited to announce the release of Qaira – Query and information retrieval agent. Qaira (pronounced as Kyra) is a smart and intuitive virtual assistant, that provides data driven answers to questions regarding your fleet. With BOSS digesting data from various sources each minute, Qaira offers an intelligent interface that can analyze data in real time and deliver information useful for decision making.
-Digitization and automation are the future of the shipping industry and we at Blue Water strive to stay a step ahead in this ever evolving industry.</description></item><item><title>Quantifying Fuel Savings</title><link>/blog/benchmarking/</link><pubDate>Fri, 26 Aug 2016 16:28:15 +0530</pubDate><guid>/blog/benchmarking/</guid><description>With increasing fuel prices and environmental awareness, maximizing energy efficiency is one of the highest priorities in voyage planning. Various weather routing algorithms have shown great potential in optimizing main engine fuel consumption while ensuring safe navigation. However, quantifying the fuel savings achieved by using these services remains a major challenge in the marine industry. The lack of a transparent and logical benchmarking system for comparing fuel consumption with and without engaging a fuel optimization service is the main roadblock in calculating fuel savings.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Blue Water</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Blue Water</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jan 2022 16:28:15 +0530</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BOSS 2021 Rewind</title>
+      <link>/blog/2021rewind/</link>
+      <pubDate>Wed, 05 Jan 2022 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/2021rewind/</guid>
+      <description> Enhanced the user experience with single page application. This year,  </description>
+    </item>
+    
+    <item>
+      <title>Because BOSS needs an assistant</title>
+      <link>/blog/qaira/</link>
+      <pubDate>Sat, 09 Nov 2019 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/qaira/</guid>
+      <description>Blue Water is excited to announce the release of Qaira – Query and information retrieval agent. Qaira (pronounced as Kyra) is a smart and intuitive virtual assistant, that provides data driven answers to questions regarding your fleet. With BOSS digesting data from various sources each minute, Qaira offers an intelligent interface that can analyze data in real time and deliver information useful for decision making.
+Digitization and automation are the future of the shipping industry and we at Blue Water strive to stay a step ahead in this ever evolving industry.</description>
+    </item>
+    
+    <item>
+      <title>Quantifying Fuel Savings</title>
+      <link>/blog/benchmarking/</link>
+      <pubDate>Fri, 26 Aug 2016 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/benchmarking/</guid>
+      <description>With increasing fuel prices and environmental awareness, maximizing energy efficiency is one of the highest priorities in voyage planning. Various weather routing algorithms have shown great potential in optimizing main engine fuel consumption while ensuring safe navigation. However, quantifying the fuel savings achieved by using these services remains a major challenge in the marine industry. The lack of a transparent and logical benchmarking system for comparing fuel consumption with and without engaging a fuel optimization service is the main roadblock in calculating fuel savings.</description>
+    </item>
+    
+  </channel>
+</rss>
