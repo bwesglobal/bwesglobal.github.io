@@ -1,2 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Main_page_contents on Blue Water</title><link>/main_page_content/</link><description>Recent content in Main_page_contents on Blue Water</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/main_page_content/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/main_page_content/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/main_page_content/intro/</guid><description/></item><item><title/><link>/main_page_content/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/main_page_content/team/</guid><description/></item><item><title>About Us</title><link>/main_page_content/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/main_page_content/about/</guid><description>Blue Water focuses on maritime energy efficiency areas, harnessing the experience of its professionals from diverse industries. These services are milestone addition to the upcoming ways of saving fossil fuels and reducing environmental impact from emissions; primarily by innovating new methodologies to optimize the fuel consumption across diverse operations.
-Emerging technologies like artificial intelligence, deep learning, and faster computational resources are offering plenty of opportunities to accelerate the digital transformation of the shipping industry, yielding results which are significantly superior to both, traditional management and purely data-driven methodologies.</description></item><item><title>Clients</title><link>/main_page_content/clients/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/main_page_content/clients/</guid><description/></item><item><title>Media</title><link>/main_page_content/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/main_page_content/media/</guid><description/></item><item><title>Media</title><link>/main_page_content/stats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/main_page_content/stats/</guid><description/></item><item><title>Services</title><link>/main_page_content/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/main_page_content/services/</guid><description>Being a full-fledged maritime service provider, Blue Water strongly believes in promoting a greener planet by keeping a pollution free marine environment as one of its important goals. We take it as our responsibility to ensure that all our endeavors constantly focus on contributing towards reducing harmful emissions, fossil fuel consumption and any other forms of marine pollution. Our services are coherent with our company’s innate philosophy of providing cost-effective eco-tech services and solutions to Transportation, Energy and Maritime industries.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Main_page_contents on Blue Water</title>
+    <link>/main_page_content/</link>
+    <description>Recent content in Main_page_contents on Blue Water</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/main_page_content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/main_page_content/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main_page_content/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/main_page_content/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main_page_content/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/main_page_content/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main_page_content/about/</guid>
+      <description>Blue Water focuses on maritime energy efficiency areas, harnessing the experience of its professionals from diverse industries. These services are milestone addition to the upcoming ways of saving fossil fuels and reducing environmental impact from emissions; primarily by innovating new methodologies to optimize the fuel consumption across diverse operations.
+Emerging technologies like artificial intelligence, deep learning, and faster computational resources are offering plenty of opportunities to accelerate the digital transformation of the shipping industry, yielding results which are significantly superior to both, traditional management and purely data-driven methodologies.</description>
+    </item>
+    
+    <item>
+      <title>Clients</title>
+      <link>/main_page_content/clients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main_page_content/clients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/main_page_content/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main_page_content/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/main_page_content/stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main_page_content/stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/main_page_content/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/main_page_content/services/</guid>
+      <description>Being a full-fledged maritime service provider, Blue Water strongly believes in promoting a greener planet by keeping a pollution free marine environment as one of its important goals. We take it as our responsibility to ensure that all our endeavors constantly focus on contributing towards reducing harmful emissions, fossil fuel consumption and any other forms of marine pollution. Our services are coherent with our company’s innate philosophy of providing cost-effective eco-tech services and solutions to Transportation, Energy and Maritime industries.</description>
+    </item>
+    
+  </channel>
+</rss>
