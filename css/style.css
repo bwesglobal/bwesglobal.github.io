@@ -297,6 +297,15 @@ summary {
 template {
   display: none; }
 
+.team-header{
+
+  margin-bottom: 22px !important;
+  padding: 1px !important;
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  background-color: rgb(203 202 199 / 30%) !important;
+}
+
 [hidden] {
   display: none !important; }
 
@@ -9261,8 +9270,8 @@ textarea.form-control {
   display: block;
   position: relative; }
   .testimony-wrap .user-img {
-    width: 100px;
-    height: 100px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     position: relative;
     margin: 0 auto; }
