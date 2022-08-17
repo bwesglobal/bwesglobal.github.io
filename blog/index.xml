@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2022 16:28:15 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2022 16:28:15 +0530</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oldendorff inks a contract with Blue Water for Voyage Optimisation</title>
+      <link>/blog/contract_od/</link>
+      <pubDate>Fri, 12 Aug 2022 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/contract_od/</guid>
+      <description>Oldendorff Inks a contract with Blue Water for Voyage Optimisation and Fleet Decarbonization by implementing BOSS after a Year-long trial.  The largest German bulk carrier company, Oldendorff Carriers, and India-headquartered maritime technology company, Blue Water, announced the official signing of their contract to implement Blue Water’s “BOSS Voyage Optimisation Suite” for Oldendorff’s Cape &amp;amp; Baby Cape fleet of owned and time chartered vessels. The BOSS Suite will propel Oldendorff’s continuous efforts towards a greener maritime trade by reducing emissions through intelligent voyage optimization, weather routing, vessel performance analysis and efficient fleet management.</description>
+    </item>
     
     <item>
       <title>Vessel Performance Monitoring </title>
@@ -18,7 +27,7 @@
       
       <guid>/blog/performance/</guid>
       <description>Performance monitoring solutions can provide valuable insights for making decisions such as hull cleaning, propeller polishing, vessel rehiring, and associated negotiations. With the ongoing digitalization of the shipping industry, data is available in abundance for building performance analysis tools. However, drawing actionable insights from such data can be challenging. Existing performance monitoring solutions fall short because of the following reasons:
-“The differentiating factor between various performance monitoring solutions is not the machine learning algorithm but how the system deals with the inputs and outputs of the algorithm.</description>
+“The differentiating factor between various performance monitoring solutions is not the machine learning algorithm how the system deals with the inputs and outputs of the algorithm.</description>
     </item>
     
     <item>
