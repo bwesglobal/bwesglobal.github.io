@@ -5,6 +5,10 @@
     <link>/services/boss/mirror/</link>
     <description>Recent content in MIRROR on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/services/boss/mirror/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="/services/boss/mirror/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

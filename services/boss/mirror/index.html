@@ -215,17 +215,50 @@
             
             </center>
             
-              <p>MIRROR is a smart noon reporting system, that automates and streamlines data flow into <a href="/services/boss">BOSS</a>. MIRROR is designed to ensure error free and accelerated ship reporting and logging using a standalone vessel specific HTML file. It includes multiple forms like Noon, Departure, Arrival Reports, bunkering, delays and Statement of Facts (SOF).</p>
-<!-- raw HTML omitted -->
+              
+
+<p>MIRROR is a smart noon reporting system, that automates and streamlines data flow into <a href="/services/boss">BOSS</a>. MIRROR is designed to ensure error free and accelerated ship reporting and logging using a standalone vessel specific HTML file. It includes multiple forms like Noon, Departure, Arrival Reports, bunkering, delays and Statement of Facts (SOF).</p>
+
+<p><center>
+<figure class="image">
+  <img src="/images/boss/mirror_form.png" style = "width: 80%">
+  <!-- <figcaption>BOSS optimization methodology overview</figcaption> -->
+</figure>
+</center></p>
+
 <h3 id="mirror-workflow">MIRROR Workflow</h3>
+
 <p>MIRROR is equipped with strong client-side and server-side validation layers to ensure error-free and validated ship reporting. A vessel-specific HTML form containing vessel-specific input constraints (eg. Max/min RPM, engine particulars, previous ROB etc ) is sent out the vessel. The interactive standalone HTML form allows smooth data entry on the vessel with alerts and validations to avoid any erroneous entry onboard. Once the HTML form is duly filled, the master can send us the encoded data and human readable noon report to a dedicated email id with the click of a button.</p>
-<!-- raw HTML omitted -->
+
+<p><center>
+<figure class="image">
+  <img src="/images/boss/mirrorwf1.png" style = "width: 70%">
+  <!-- <figcaption>BOSS optimization methodology overview</figcaption> -->
+</figure>
+</center></p>
+
 <p>Once the form is received at our end, it is automatically logged into our database and undergoes a server side validation phase. Validations such as verification of Noon position against SAT-AIS, reported weather vs analyzed weather, Speed-RPM-consistency, compliance with voyage plan, under-performance against warranties, ROB validation etc are conducted upon the receipt of a noon report.</p>
-<!-- raw HTML omitted -->
+
+<p><center>
+<figure class="image">
+  <img src="/images/boss/mirrorwf2.png" style = "width: 70%">
+  <!-- <figcaption>BOSS optimization methodology overview</figcaption> -->
+</figure>
+</center></p>
+
 <p>A detailed discrepancy report is generated which is managed by a BOSS operator who takes corrective measures to handle each discrepancy. The action points at this stage include seeking clarification from Master, informing the voyage operator or updating our hydrodynamic model incase it is not consistent with the data being reported.</p>
-<!-- raw HTML omitted -->
+
+<p><center>
+<figure class="image">
+  <img src="/images/boss/discrepancy.png" style = "width: 90%">
+  <!-- <figcaption>BOSS optimization methodology overview</figcaption> -->
+</figure>
+</center></p>
+
 <p>The validated MIRROR data feeds into a centralized voyage database in BOSS, which powers almost all BOSS modules for <a href="/services/boss/management">voyage management</a> and <a href="/services/boss/performance">performance trending</a>.</p>
+
 <h3 id="benefits">Benefits</h3>
+
 <ul>
 <li><strong>No additional onboard installation</strong> required. MIRROR form works on all standard web browsers including Internet Explorer, Google Chrome etc.</li>
 <li><strong>Error-free and automatic noon reporting:</strong> We use a unique man-machine collaboration described above to make this possible.</li>

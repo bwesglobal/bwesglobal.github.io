@@ -6,15 +6,19 @@
     <description>Recent content in Blog on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2022 16:28:15 +0530</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 16:28:15 +0530</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Vessel Performance Monitoring </title>
       <link>/blog/performance/</link>
       <pubDate>Fri, 27 May 2022 16:28:15 +0530</pubDate>
       
       <guid>/blog/performance/</guid>
-      <description>BOSS performance modules can consume data from noon reports and also sensor data API. Sensor data promises noise-free and accurate data logging. However, miscalibrated sensors, hardware, and network issues can result in missing or inconsistent data. Also, many commercial and compliance reports like emission reports and performance claims are exclusively based on the reported noon data.
-Error-free and accurate noon report data can be valuable not only for generating commercial reports but also for technical performance analysis and monitoring.</description>
+      <description>Performance monitoring solutions can provide valuable insights for making decisions such as hull cleaning, propeller polishing, vessel rehiring, and associated negotiations. With the ongoing digitalization of the shipping industry, data is available in abundance for building performance analysis tools. However, drawing actionable insights from such data can be challenging. Existing performance monitoring solutions fall short because of the following reasons:
+“The differentiating factor between various performance monitoring solutions is not the machine learning algorithm but how the system deals with the inputs and outputs of the algorithm.</description>
     </item>
     
     <item>
@@ -23,7 +27,7 @@ Error-free and accurate noon report data can be valuable not only for generating
       <pubDate>Thu, 10 Mar 2022 16:28:15 +0530</pubDate>
       
       <guid>/blog/ciiscc/</guid>
-      <description>While CII standardizes the metrics for measuring maritime emissions, the Sea Cargo Charter (SCC) establishes a framework for assessing and disclosing the emissions from ship chartering activities around the globe. Signatories of the SCC are required to report their emissions data for each voyage in a standard format. The emissions for each voyage are aggregated from the first ballast leg and need to be apportioned between various sub-charterers for voyages carrying parcels from multiple charterers.</description>
+      <description>The marine industry is aligning its efforts to promote international shipping decarbonization. The International Maritime Organization (IMO) has set an ambitious goal to reduce shipping&amp;rsquo;s total annual Greenhouse Gas emissions by at least 50% by 2050. As a first step to achieving this goal, IMO has introduced a standard metric for the current emission efficiency of ships called the Annual Emission Ratio (AER). AER measures the emission efficiency in terms of grams of CO2 emitted per cargo-carrying capacity and distance sailed.</description>
     </item>
     
     <item>

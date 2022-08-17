@@ -5,6 +5,10 @@
     <link>/services/boss/packages/</link>
     <description>Recent content in BOSS Packages on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/services/boss/packages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="/services/boss/packages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

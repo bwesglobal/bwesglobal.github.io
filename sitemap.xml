@@ -1,105 +1,195 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/blog/</loc>
     <lastmod>2022-05-27T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2022-05-27T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/blog/performance/</loc>
     <lastmod>2022-05-27T16:28:15+05:30</lastmod>
-  </url><url>
-    <loc>/services/boss/</loc>
-    <lastmod>2022-03-10T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/emissions/</loc>
     <lastmod>2022-03-10T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/blog/ciiscc/</loc>
     <lastmod>2022-03-10T16:28:15+05:30</lastmod>
-  </url><url>
-    <loc>/services/</loc>
-    <lastmod>2022-03-10T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/blog/2021rewind/</loc>
     <lastmod>2022-01-05T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/blog/qaira/</loc>
     <lastmod>2019-11-09T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/blog/benchmarking/</loc>
     <lastmod>2016-08-26T16:28:15+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/main_page_content/intro/</loc>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/main_page_content/team/</loc>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/services/boss/</loc>
+  </url>
+  
+  <url>
     <loc>/services/chm/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/main_page_content/about/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/packages/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/chm/apportionment/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/chm/s_aportion/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/chm/chm/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/chm/s_chm/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/chm/champ/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/chm/s_champ/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/main_page_content/clients/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/s_emissions/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/intro/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/chm/intro/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/main_page_content/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/marine-consultancy/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/main_page_content/media/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/main_page_content/stats/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/team/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/mirror/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/s_mirror/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/orbit/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/optimization/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/s_optimization/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/team/s_journey/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/performance/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/s_performance/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
+  </url>
+  
+  <url>
     <loc>/main_page_content/services/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/management/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/services/boss/s_management/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/career/</loc>
   </url>
+  
 </urlset>

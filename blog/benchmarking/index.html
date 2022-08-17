@@ -212,19 +212,29 @@
             </center>
             
             <div style="text-align: justify;">
-              <p>With increasing fuel prices and environmental awareness, maximizing energy efficiency is one of the highest priorities in voyage planning. Various weather routing algorithms have shown great potential in optimizing main engine fuel consumption while ensuring safe navigation. However, quantifying the fuel savings achieved by using these services remains a major challenge in the marine industry. The lack of a transparent and logical benchmarking system for comparing fuel consumption with and without engaging a fuel optimization service is the main roadblock in calculating fuel savings.</p>
+              
+
+<p>With increasing fuel prices and environmental awareness, maximizing energy efficiency is one of the highest priorities in voyage planning. Various weather routing algorithms have shown great potential in optimizing main engine fuel consumption while ensuring safe navigation. However, quantifying the fuel savings achieved by using these services remains a major challenge in the marine industry. The lack of a transparent and logical benchmarking system for comparing fuel consumption with and without engaging a fuel optimization service is the main roadblock in calculating fuel savings.</p>
+
 <p>The optimization objective of the weather routing and dynamic speed algorithms is to find a route and speed schedule that achieves minimum fuel consumption by reducing adverse weather exposure. A route and speed schedule with favourable weather helps in achieving the target ETA at a lower engine RPM and thereby lower total fuel consumption. While theoretically these weather routing and speed scheduling algorithms show great promise in optimizing  main engine fuel consumption for a passage, quantifying the actual savings achieved by engaging such a service remains a challenging task. Given the large number of variables including weather, Charter Party terms, berthing prospects and current vessel condition, it is impossible to find a past identical voyage as a basis of comparison of main engine fuel consumption.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+
+<!-- It is also important to note that fuel savings obtained by comparison against warranties cannot be attributed to a weather routing service. Warranted consumption figures are often exaggerated and provide an upper bound on fuel consumption at a given speed in fair weather. Moreover, weather routing consumption cannot reduce the fuel consumption at a given speed in fair weather. The reduction in fuel consumption is achieved by intelligent routing and scheduling such that the exposure to bad wearher is minimized. -->
+
+<hr>
+
 <h3 id="how-de-we-do-it">How de we do it?</h3>
+
 <p>A seemingly logical and transparent solution for estimating the benchmark fuel consumption is simulating the voyage in  hindcast weather on a standard navigational route as per Charter-Party terms. However, this method is very sensitive to inaccuracy in the vessel hydrodynamic model used for simulation. For example, if the model always overestimates fuel consumption by 5%, then it may report savings of 5% even in voyages in which no weather routing/speed scheduling is applied. Moreover, it is important to simulate the voyage such that it achieves the same arrival time as the actual voyage so that the savings reported are not due to slow steaming but because of intelligent weather routing and speed scheduling.</p>
+
 <p>The process of benchmark voyage re-construction is as follows:</p>
+
 <ul>
 <li>The voyage is re-simulated as per voyage orders on standard navigational route (Vessel Passage Plan).To avoid overestimation of the benchmark M/E fuel consumption, the simulation accounts for RPM reduction advised by Master in harsh weather conditions, without the aid of any advance service like BOSS.</li>
 <li>The arrival date/time at destination port is kept same as the Actual Time of Arrival of the concluded voyage. This ensures that the fuel saving claimed are attributed to BOSS techniques and not due to slow steaming.</li>
 <li>The voyage is simulated on six hourly basis in the weather conditions that vessel would have encountered on the standard navigational route. Benchmark calculation does not use general average for weather on standard navigational route. To make the most accurate comparison, the simulation is performed six hourly to incorporate sudden changes in weather on the standard navigational route.</li>
 <li>Vessel-specific hydrodynamic model is corrected using the correction procedure that scales the model&rsquo;s predictions according to the daily noon data reported by the vessel. The details of this algorithm can be found in our <a href="/benchmarking.pdf">benchmarking paper</a>. This correction procedure ensures that the same yardstick is used to measure the fuel consumption on the actual concluded voyage and the voyage reconstructed as per Master’s passage plan.</li>
 </ul>
+
 <p>Finally the fuel savings is = ME Consumption in the reconstructed benchmark voyage - Actual ME consumption in the voyage</p>
 
             </div>
