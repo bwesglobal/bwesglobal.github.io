@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Aug 2022 16:28:15 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 20 Aug 2022 16:28:15 +0530</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimize Voyages like it’s 2022, because it is!</title>
+      <link>/blog/voyage-optimisation/</link>
+      <pubDate>Sat, 20 Aug 2022 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/voyage-optimisation/</guid>
+      <description>For the past several years, the scope of voyage optimization has been limited to weather routing and weather advisory for a given sea passage. Seasoned mariners and meteorologists, with the help of a route search algorithm advise a route that minimizes bad weather exposure while maintaining a reasonable ship speed until the destination. This approach however, oversimplifies a rather complex problem and can lead to suboptimal fuel savings, weather damages and breach of commercial obligations.</description>
+    </item>
     
     <item>
       <title>Oldendorff inks a contract with Blue Water for Voyage Optimisation</title>
