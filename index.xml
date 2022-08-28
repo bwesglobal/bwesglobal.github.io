@@ -6,10 +6,20 @@
     <description>Recent content in Index on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Aug 2022 16:28:15 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2022 16:28:15 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making Vessel Operations Future Ready: Blue Water Rolls Out BOSS CII Estimator</title>
+      <link>/blog/cii-estimator/</link>
+      <pubDate>Sun, 28 Aug 2022 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/cii-estimator/</guid>
+      <description>Carbon Intensity Index (CII) has been the complex burning topic in the maritime industry. Since the announcement, there have been numerous debates regarding the compliance measures yet with just 5 months to go, about 75% of vessels will not be EEXI compliant according to a report from VesselsValue.
+There’s no doubt that the early movers will have a better CII rating that would have a direct impact on vessel employment.</description>
+    </item>
     
     <item>
       <title>Optimize Voyages Like It’s 2022, Because It Is!</title>
