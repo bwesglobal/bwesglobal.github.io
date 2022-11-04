@@ -6,10 +6,20 @@
     <description>Recent content in Blog on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 16:28:15 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 16:28:15 +0530</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LNG Voyage Optimization with BOSS</title>
+      <link>/blog/lng/</link>
+      <pubDate>Thu, 03 Nov 2022 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/lng/</guid>
+      <description>Over the years, voyage optimization for LNG carriers has been limited to just weather routing. However, to fully exploit the scope of LNG optimization, it is crucial to strike the right balance between boil-off rate, speed, course and commercial factors. With more than 650 LNG carriers operating globally and hire rates soaring to $500K per day, LNG voyage optimization is more imperative than ever before.
+BOSS provides an optimization solution to exploit factors outside our control by controlling factors which are in our control</description>
+    </item>
     
     <item>
       <title>Ultranav’s Cape Tankers Opts BOSS Optimisation Suite for Fleet Optimisation &amp; Decarbonization </title>
