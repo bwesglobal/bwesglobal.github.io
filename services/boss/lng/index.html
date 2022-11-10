@@ -201,27 +201,61 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
           
-            <div class="col-md-9 heading-section ftco-animate">
+            <div class="col-md-10 heading-section ftco-animate">
           
 
             <center>
               
-            <h2 class="mb-4">Marine Consultancy</h2>
+                
+                <a href="/services/boss">
+                
+                  <img src='/images/logos/BOSSLOGO.png' style="height: 80px;">
+                
+                </a>
+                  
+              
+            <h2 class="mb-4">LNG Voyage Optimization</h2>
             
             </center>
             
-              <p><img src="/images/consultancy/cover2.jpg" style="width: 100%"></p>
+              <p>Over the years, voyage optimization for LNG carriers has been limited to just weather routing. However, to fully exploit the scope of LNG optimization, it is crucial to strike the right balance between boil-off rate, speed, course and commercial factors. With more than 650 LNG carriers operating globally and hire rates soaring to as high as $500K per day, LNG voyage optimization is more imperative than ever before.</p>
 
-<p>Blue Water provides a wide range of consultancy services globally on demand from surveys/inspection to the development of a diverse range of customized applications. We offer a complete range of information services essential in managing a wide range of marine industry.</p>
+<p><img src="/images/blogimages/lng/factors.jpg" alt="LNG Cargo Tank" style="width: 70%; margin-left: 15%; margin-right: 15%;">
+<center><i>BOSS provides an optimization solution to exploit factors outside our control by controlling factors which are in our control</i></center></p>
 
-<ul>
-<li><strong>Dry-dock project management:</strong> We have a dedicated team to oversee and manage a comprehensive range of marine repair and maintenance programs for vessels and fleets of all sizes. Our expert team ensures that all repairs and maintenance are carried out professionally and efficiently to the highest industry standards.</li>
-<li><strong>Training and onboard deployment of planned maintenance system:</strong> Blue Water has a team of PMS engineers specializing in implementing fleet maintenance solutions, both onboard as well as ashore locations. We assist in the smooth transition from existing maintaining system to the latest PMS.</li>
-<li><strong>Marine Customized Application Development:</strong> We have a team of dedicated professionals drawn from the maritime as well as IT industry. We specialized in offering ingenious marine software solutions web based or desktop application that are developed specifically for managing and carrying out operations for businesses and organization for their efficient working.</li>
-<li><strong>Vessel Inspection:</strong> Blue Water can arrange professionals from diverse backgrounds which include Superintendents, Technical Managers, Electricians, or exclusive General Inspectors to carry out the inspection.</li>
-</ul>
+<p>At Blue Water (BOSS), we have spent the past year researching and developing the most complete LNG voyage optimization solution that can potentially yield 5-7% proven bunker savings while ensuring timely arrival. Powered by state-of-the-art machine learning and thermodynamic models, BOSS can optimally plan and monitor LNG voyages with efficient boil-off-gas management, speed scheduling and weather routing. The claimed annual savings, when translated into a dollar value for a fleet of 50 vessels, may well look illusionary &amp; inflated. However, the numbers are real and derived by using a transparent and logical benchmarking system- yet another innovative approach of BOSS.</p>
 
-<p>Our keystone has always been to offer best of consultancy for all your needs, which may regularly consume valuable resources and cause distraction from your core business and strategic planning and assist you to align your organization with the global trends.</p>
+<h4 style="color: rgb(50, 50, 150)">Understanding Boil off gas generation</h4>
+
+<p>LNG is carried as a cryogenic liquid at around (-)160&deg; Celsius in large insulated tanks. Naturally, some amount of heat ingress into the tanks can disturb the liquid-gas equilibrium resulting in boil-off-gas (BOG) generation. This natural gas generated through boil-off serves as the primary fuel in the majority of LNG carriers.</p>
+
+<p><img src="/images/blogimages/lng/lng_tank.jpeg" alt="LNG Cargo Tank" style="width: 70%; margin-left: 15%; margin-right: 15%;">
+<i>Fig: Cross-section of an LNG cargo tank under typical operating conditions. The Boil-off gas generated due to the heat-ingress is used as fuel for propulsion and hotel.</i></p>
+
+<p>Predicting Natural Boil-off-Gas (NBOG) in LNG carriers is a complex problem. Boil-off rate is extremely sensitive to the operating parameters and thermophysical properties of the LNG cargo, both of which dynamically change throughout the voyage. Sub-optimal operating pressure and speed can result in excess NBOG which either needs to be burnt in the Gas Combustion Unit (GCU) or partially re-liquified if the vessel is equipped with a reliquefaction plant.</p>
+
+<p><img src="/images/blogimages/lng/sat_pressure.jpg" alt="Saturation Pressure" style="width: 100%; margin-left: 0%;">
+<i>Fig: Saturation Pressure vs Liquid Temperature for LNG grades with different molar compositions. As evident above, saturation pressure is extremely sensitive to both LNG temperature and the molar composition of the LNG grade. </i></p>
+
+<p>On the positive side, if we can accurately model the NBOG generation phenomenon and vessel hydrodynamics, the scope of optimization in LNG carriers is far greater than ships powered by fuel oil. BOSS LNG optimization solution for LNG maximizes this potential by not only reducing the boil-off rate, but also by maximally utilizing the generated NBOG. This is achieved by planning an optimum schedule for speed, course and operating pressure for LNG carriers and closely monitoring the voyage plan implementation using the inhouse C-ORCA tool.</p>
+
+<p><img src="/images/blogimages/lng/ageing.jpg" alt="LNG Ageing Tank" style="width: 80%; margin-left: 10%; margin-right: 10%;">
+<i> Fig: LNG Ageing phenomenon: More volatile components such as Nitrogen evaporate first followed by the primary component Methane. This leads to excess NBOG during the first few days of the voyage which has a lower calorific value since Nitrogen is an inert gas. </i></p>
+
+<h4 style="color: rgb(50, 50, 150)">Boil off gas management with BOSS</h4>
+
+<p>At BOSS, we have tackled the challenge of NBOG prediction using a hybrid approach based on thermodynamic principles and machine learning. NBOG is affected by several variables, some of which are static and do not change during the course of the passage (eg. thermal coefficients of tank insulation, tank geometry etc) while the others change dynamically throughout the voyage (eg. LNG molar composition, temperature, operating pressure, tank stowage). Thermodynamic models are used to predict the liquid-gas equilibrium conditions for the given LNG composition, liquid temperature and stowage. Machine learning models are used to derive empirical coefficients for predicting the boil-off-rate based on the deviation from the theoretical liquid-gas equilibrium. This hybrid approach accounts for the heat ingress coming into the tanks, sloshing caused by rough seas and chemical properties of the LNG grade to predict the boil-off-rate.</p>
+
+<p><img src="/images/blogimages/lng/model_prediction.jpg" alt="NBOG Prediction" style="width: 60%; margin-left: 20%; margin-right: 20%;">
+<i> Fig: Voyage reconstruction of an actual concluded passage using BOSS&rsquo;s NBOG prediction model. The green line indicates the actual NBOG reported by the vessel and the blue line indicates the predictions from BOSS NBOG model in the reported operating conditions and weather.</i></p>
+
+<p>The optimum operating pressure for limiting the boil-off rate is another complex problem since it depends on many dynamic variables like target speed, LNG composition, liquid temperature and weather. The composition of LNG varies significantly across different loading ports and also changes throughout the voyage. During the course of the voyage, more volatile components like nitrogen evaporate first and cause an increased NBOG with lower calorific value in the initial days. BOSS NBOG model takes into account the initial LNG composition and predicts the ageing as the voyage progresses. Finally, our algorithm takes into account the temperature and pressure requirements at the discharge port to plan a schedule that minimizes the total LNG consumption while adhering to the discharge requirements.</p>
+
+<h4 style="color: rgb(50, 50, 150)">Complete voyage optimization and weather routing</h4>
+
+<p><img src="/images/blogimages/voyage-optimisation/route_comparison.jpg" alt="NBOG Prediction" style="width: 80%; margin-left: 10%; margin-right: 10%;"></p>
+
+<p>BOSS has been vouched for by several ship owners and oil majors as being an accurate, complete and transparent optimization and weather routing service. Our LNG optimization solution expands on our trusted service by encompassing accurate NBOG models with our time-tested hydrodynamic models, weather forecasts and exhaustive voyage simulation providing a one-stop optimization solution for LNG carriers. Voyage planning is where things only get started at BOSS. Our AI-assisted voyage monitoring ensures voyage plan compliance, high data quality and efficient error resolution. Read more on how BOSS voyage optimization stands apart in our <a href="/blog/voyage-optimisation/">Voyage Optimization blog post</a>.</p>
 
             
             

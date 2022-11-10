@@ -142,6 +142,14 @@
   </url>
   
   <url>
+    <loc>/services/boss/lng/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/boss/s_lng/</loc>
+  </url>
+  
+  <url>
     <loc>/main_page_content/</loc>
   </url>
   
