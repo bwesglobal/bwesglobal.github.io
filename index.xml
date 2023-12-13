@@ -6,10 +6,19 @@
     <description>Recent content in Index on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 16:28:15 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 16:28:15 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing BOND (BOSS On Demand)</title>
+      <link>/blog/bond/</link>
+      <pubDate>Wed, 13 Dec 2023 16:28:15 +0530</pubDate>
+      
+      <guid>/blog/bond/</guid>
+      <description>Efficient and error-free voyage management is essential for seamless maritime operations. We have spent the last decade, closely collaborating with various maritime stakeholders to solve the complex challenges of voyage optimization and validated reporting through BOSS. After years of continuous refinement, we are delighted to introduce our services to a broader audience through BOND ( BOSS on Demand). BOND is a self-service platform to access and customize our voyage optimization and reporting suite that is trusted by most of the industry leaders including oil majors, charterers, and ship owners.</description>
+    </item>
     
     <item>
       <title>Introducing the BOSS Mobile App</title>
