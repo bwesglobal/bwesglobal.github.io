@@ -1,0 +1,84 @@
+:root {
+    --color-background-default: #f2f1f1;
+    --color-background-paper: #ffffff;
+    --color-background-code: #fffffe;
+    --color-background-contrast: #212946;
+    --color-primary-main: #212946;
+    --color-primary-light: #93c5fd;
+    --color-primary-dark: #111936;
+    --color-primary-contrast: #fff;
+    --color-secondary-main: #073763;
+    --color-secondary-light: #93c5fd;
+    --color-secondary-dark: #ca8a04;
+    --color-secondary-contrast: rgb(161, 161, 161);
+    --color-text-light: rgb(102, 102, 102);
+    --color-text-dark: #808080;
+    --color-text-body: rgb(102, 102, 102);
+    --color-text-contrast: #fff;
+    --color-text-disabled: #9ca3af;
+    --color-divider-main: #334155;
+    --color-divider-light: rgb(220, 220, 250);
+    --color-divider-dark: #c1c1c1;
+    --color-divider-body: #d1d5db;
+    --color-scrollbar-thumb: #cbd5e1;
+    --color-scrollbar-track: #f2f1f1;
+    --color-skeleton-light: #d1d5db;
+    --color-skeleton-dark: #e5e7eb;
+    --color-toggle-background: #e5e7eb;
+    --color-error-main: #ef4444;
+    --color-error-light: #fee2e2;
+    --color-error-dark: #991b1b;
+    --color-error-contrast: #fff;
+    --color-warning-main: #f59e0b;
+    --color-warning-light: #fef3c7;
+    --color-warning-dark: #92400e;
+    --color-warning-contrast: rgba(0, 0, 0, 0.87);
+    --color-success-main: #22c55e;
+    --color-success-light: #dcfce7;
+    --color-success-dark: #166534;
+    --color-success-contrast: rgba(0, 0, 0, 0.87);
+    --color-info-main: #29b6f6;
+    --color-info-light: #4fc3f7;
+    --color-info-dark: #0288d1;
+    --color-neutral-main: #4b5563;
+    --color-neutral-light: #9ca3af;
+    --color-neutral-dark: #1f2937;
+    --color-info-contrast: rgba(0, 0, 0, 0.87);
+    --color-neutral-main: #4b5563;
+    --color-neutral-light: #9ca3af;
+    --color-neutral-dark: #1f2937;
+    --color-neutral-contrast: rgba(0, 0, 0, 0.87);
+    --color-select: #ffc106;
+    --color-hover: #3b82f6;
+}
+
+::-webkit-scrollbar {
+    z-index: 1px;
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: inherit;
+    z-index: 1px;
+}
+::-webkit-scrollbar-thumb {
+    z-index: 1px;
+    background: #d1d5db;
+    border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+    z-index: 1px;
+    background: #9e9e9e;
+}
+
+.outlined-button {
+    @apply tw-cursor-pointer tw-text-xs tw-text-text-light tw-w-fit tw-px-4 tw-py-2 tw-rounded-md hover:tw-bg-secondary-main hover:tw-text-text-contrast tw-border tw-border-secondary-main tw-transition tw-duration-150 tw-ease-in-out;
+}
+
+.disabled-button {
+    @apply tw-cursor-not-allowed tw-opacity-50 tw-pointer-events-none tw-select-none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
