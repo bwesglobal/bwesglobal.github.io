@@ -6,7 +6,7 @@
     <description>Recent content in Blog on Blue Water</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Introducing AanyaX: The Agentic Harness for Maritime Software</title>
       <link>/blog/aanyax/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0530</pubDate>
       
       <guid>/blog/aanyax/</guid>
       <description>Maritime teams have never lacked data. Fleet records, voyage workflows, monitoring feeds, reports, emails, and checklists all contain the signals needed to understand what is happening across an operation. The harder part has always been turning those signals into timely, usable answers.

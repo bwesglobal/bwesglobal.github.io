@@ -9493,6 +9493,38 @@ textarea.form-control {
   .block-6 .media-body p {
     font-size: 16px; }
 
+.home-services-grid > [class*="col-"] {
+  display: flex;
+  margin-bottom: 40px; }
+
+.home-services-grid > [class*="col-"] > a {
+  display: flex;
+  width: 100%; }
+
+.home-services-grid .services {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin-bottom: 0; }
+
+.home-services-grid .services > .justify-content-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%; }
+
+.home-services-grid .services .media-body-2 {
+  display: flex;
+  flex: 1;
+  flex-direction: column; }
+
+.home-services-grid .services .media-body-2 hr {
+  margin-top: auto;
+  width: 100%; }
+
+.home-services-grid .service-card-link {
+  white-space: nowrap; }
+
 .block-10 .chef-img {
   height: 400px; }
 

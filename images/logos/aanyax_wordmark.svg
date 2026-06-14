@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" preserveAspectRatio="xMidYMid meet">
+  <g>
+    <g transform="rotate(-32 65 65)"><path d="M 65 12 C 84 28, 84 102, 65 118 C 46 102, 46 28, 65 12 Z" fill="#F5C518"/></g>
+    <g transform="rotate(32 65 65)"><path d="M 65 12 C 84 28, 84 102, 65 118 C 46 102, 46 28, 65 12 Z" fill="#3F4DA8"/></g>
+  </g>
+  <text x="150" y="92" font-family="Poppins, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="76" fill="#0A1F44" letter-spacing="-2">Aanya<tspan fill="#3F4DA8">X</tspan></text>
+</svg>
