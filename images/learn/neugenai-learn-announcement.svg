@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse"><stop stop-color="#222650"/><stop offset="1" stop-color="#0b0e28"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8684e8" stop-opacity=".16"/><stop offset="1" stop-color="#8684e8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <ellipse cx="800" cy="430" rx="680" ry="450" fill="url(#glow)"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="800" y="130" text-anchor="middle" fill="#f5d21f" font-size="25" font-weight="600" letter-spacing="5">BLUE WATER × NEUGENAI</text>
+    <text x="800" y="233" text-anchor="middle" fill="#ffffff" font-size="76" font-weight="600" letter-spacing="-2">NeugenAI Learn</text>
+  </g>
+  <g stroke="#777bb4" stroke-width="2" stroke-opacity=".25"><circle cx="470" cy="455" r="190"/><circle cx="1130" cy="455" r="190"/></g>
+  <g stroke="#8589c6" stroke-width="3" stroke-dasharray="5 13"><path d="M600 365c115-90 285-90 400 0M600 545c115 90 285 90 400 0"/></g>
+  <circle cx="470" cy="455" r="146" fill="#252b54" stroke="#585d94" stroke-width="2"/>
+  <circle cx="1130" cy="455" r="146" fill="#252b54" stroke="#585d94" stroke-width="2"/>
+  <g stroke="#a8a7ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 419c-35-26-76-33-111-21v125c35-12 76-5 111 21 35-26 76-33 111-21V398c-35-12-76-5-111 21Z" fill="#a8a7ff" fill-opacity=".04"/>
+    <path d="M470 419v125M384 436c21 0 42 6 61 16M384 471c21 0 42 6 61 16M495 452c19-10 40-16 61-16M495 487c19-10 40-16 61-16" stroke-width="4"/>
+  </g>
+  <g stroke="#f5d21f" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M1028 461h204l-30 44h-139l-35-44Z" fill="#f5d21f" fill-opacity=".05"/>
+    <path d="M1068 461v-50h92v50M1086 411v-34h47v34M1087 435h13M1121 435h13M1160 431h45v30M1110 377v-22"/>
+    <path d="M1027 526c17 12 34 12 51 0 17 12 34 12 51 0 17 12 34 12 51 0 17 12 34 12 51 0" stroke-width="5"/>
+  </g>
+  <rect x="735" y="390" width="130" height="130" rx="32" fill="#161b3d" stroke="#6c6fa6" stroke-width="2"/>
+  <path d="M800 418c0 24-13 37-37 37 24 0 37 13 37 37 0-24 13-37 37-37-24 0-37-13-37-37Z" fill="#f5d21f"/>
+  <g font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="470" y="692" fill="#eeedff" font-size="38" font-weight="500">Community learning</text>
+    <text x="1130" y="692" fill="#eeedff" font-size="38" font-weight="500">Maritime training</text>
+    <text x="800" y="795" fill="#acafd0" font-size="30">Sharing expertise. Developing capability.</text>
+  </g>
+  <g fill="#f5d21f"><circle cx="635" cy="335" r="5"/><circle cx="965" cy="575" r="5"/></g>
+</svg>
